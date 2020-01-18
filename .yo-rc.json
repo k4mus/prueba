@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cosechar.app",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "demo",
+    "packageName": "com.cosechar.app",
+    "packageFolder": "com/cosechar/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTRjYzc5ZTRlOTA2NjU2ZDdlOGM2YWFiMmU4YTk5MGFmOGNkOGNiM2RiMTFlMmM5ZjAzM2Y0YWMxYjhmNGVmYTdiMDM3MmJiNzQ4ODNiNmMyNDk1ODhlOTQ2NGU3ODZiMzg2OWY5ZjA2OWJmMDdlZDUxYjQ5NTdiYTJiZTM3ZmQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1579363797459,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es"],
+    "blueprints": []
+  }
+}
